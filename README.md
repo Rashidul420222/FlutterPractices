@@ -2,18 +2,18 @@
 
 |Flutter Project Name|               Currently Available                |
 | :----------------- | :----------------------------------------------: |
-| Image Api            |             View Profile, Profile 2              |
-| Dicee            |             [Flutter: Dicee](https://github.com/Rashidul420222/dart_courses)   |
-| Magic Text            |             View Profile, Profile 2              |
+| Image Api            |             Vie  |
+| Magic Text            |             View Profile, Profile 2      w Profile, Profile 2              |
+| Dicee            |             [Flutter: Dicee]()         |
 | Piyano            |             View Profile, Profile 2              |
 | Quize            |             View Profile, Profile 2              |
 | Quize2            |             View Profile, Profile 2              |
 
 
 # All flutter paractice project is heare
-| Image Api Demo               | Quize Demo                 | Piyano  Demo              |
-| ------------------------ | -------------------------- | ------------------------- |
-| ![image_api](/gif/imageapi.gif) | ![Piyano](/gif/quize2.gif) | ![Dicee](/gif/piyano.gif) |
+| Image Api Demo               | 
+| ------------------------ |
+| ![image_api](/gif/imageapi.gif) | 
 
 
 
